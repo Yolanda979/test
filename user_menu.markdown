@@ -97,9 +97,9 @@ The categorization and description of keyboard shortcuts.
 | K               | Media    | Play / Pause in normal speed       |
 | L               | Media    | Moving forward from x0.1, each click speed up 0.1|
 | ;               | Media    │ Speed down 0.25                    │
-│ '               │ Media    │ Speed up 0.25                      │
-│ ESC             │ Graph    │ Zoom out                           │
-│ Mouse Right Click│ Graph   │ Zoom out to the last zone          |
+| '               | Media    │ Speed up 0.25                      │
+│ ESC              │ Graph    │ Zoom out                          │
+│ Mouse Right Click | Graph   │ Zoom out to the last zone         |
 
 
 ## Contact Us
