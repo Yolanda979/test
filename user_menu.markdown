@@ -1,6 +1,6 @@
 # Application User Guide
 
-Welcome to our application! Follow this guide to get started and learn about the features available.
+Welcome to our application-SegIt! Follow this guide to get started and learn about the features available.
 
 # Table of Contents
 
@@ -17,6 +17,7 @@ Welcome to our application! Follow this guide to get started and learn about the
     - [3.3 Marking](#marking)
     - [3.4 Saving](#saving)
     - [3.5 Exporting](#exporting)
+- [Appendix](#appendix)
 - [Contact Us](#contact-us)
 
 ## Getting Started
@@ -74,6 +75,32 @@ First, please install and download the application, then proceed to the main int
 
 - Click `File->Export` to export annotated files with options like "Target Folder” and “Allow multiple labels in one segment".
 - For batch exporting multiple project files at once, click `File->Batch Export` and select a folder containing several project files; this exports them as label files.
+
+## Appendix
+The categorization and description of keyboard shortcuts.
+
+| Shortcut        | Category | Description                        |
+|-----------------|----------|------------------------------------|
+| ctrl + X        | Labeling | Set start point of current segment |
+| ctrl + C        | Labeling | Set end point of current segment   |
+| ctrl + Z        | Labeling | Add a new segment                  |
+| ctrl + Space    | Labeling | Choose label                       |
+| ctrl + S        | File     | Save the in-progress work          |
+| ctrl + shift + S| File     | Save As                            |
+| ctrl + O        | File     | Open Segit file                    |
+| Space           | Media    | Play / Pause                       |
+| Left arrow      | Media    | Skip back 5 seconds                |
+| Right arrow     | Media    | Skip forward 5 seconds             |
+| ,               | Media    | Skip back 1 second                 |
+| .               | Media    | Skip forward 1 second              |
+| J               | Media    | Moving backward from x0.1, each click speed up 0.1|
+| K               | Media    | Play / Pause in normal speed       |
+| L               | Media    | Moving forward from x0.1, each click speed up 0.1|
+| ;               | Media    │ Speed down 0.25                    │
+│ '               │ Media    │ Speed up 0.25                      │
+│ ESC             │ Graph    │ Zoom out                           │
+│ Mouse Right Click│ Graph   │ Zoom out to the last zone          |
+
 
 ## Contact Us
 
